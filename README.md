@@ -4,15 +4,19 @@ The WeatherApp is a web application that provides real-time weather information 
 The main components of the project are as follows:
 
 HTML Structure:
+
 The HTML file defines the structure of the WeatherApp. It includes a card element that contains various sections for displaying weather information. The card includes a search input field and a search button for users to enter the preferred city and retrieve the weather data.
 
 CSS Styling:
+
 The CSS file contains styling rules to visually design the WeatherApp. It defines the layout, colors, fonts, and responsiveness of the application. The card element is styled to have a gradient background and rounded corners. The different sections and elements within the card are positioned and styled accordingly for optimal display.
 
 JavaScript Functionality:
+
 The JavaScript code handles the functionality of the WeatherApp. It interacts with the OpenWeatherMap API to fetch weather data for the specified city. The API key and base URL are defined as constants. The code includes an asynchronous function, checkWeather, that performs the API request and updates the weather information displayed on the page. Depending on the weather conditions, the appropriate weather icon is displayed. The code also includes an event listener that triggers the checkWeather function when the search button is clicked.
 
 Additional Files:
+
 The project includes two additional JavaScript files. scriptYear.js retrieves the current year and dynamically updates the footer section with the correct year. This ensures that the footer always displays the current year. The script.js file contains the main functionality for retrieving and displaying weather data.
 
 To use the WeatherApp, simply enter the desired city name in the search input field and click the search button. The application will fetch the weather data for the specified city and display it in the respective sections of the card. In case an invalid city name is entered, an error message will be shown.
