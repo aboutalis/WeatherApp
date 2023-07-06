@@ -23,23 +23,25 @@ To use the WeatherApp, simply enter the desired city name in the search input fi
 
 Key Features:
 
-Weather Display: The WeatherApp displays the current weather conditions of the specified city. It includes the temperature in Celsius, the city name, and a corresponding weather icon that represents the weather conditions.
+1) Weather Display: The WeatherApp displays the current weather conditions of the specified city. It includes the temperature in Celsius, the city name, and a corresponding weather icon that represents the weather conditions.
 
-Search Functionality: Users can enter the name of a city in the search input field and click the search button to retrieve the weather information for that location. The application sends a request to the OpenWeatherMap API and fetches the relevant data.
+2) Search Functionality: Users can enter the name of a city in the search input field and click the search button to retrieve the weather information for that location. The application sends a request to the OpenWeatherMap API and fetches the relevant data.
 
-Error Handling: If an invalid city name is entered or if the API request fails, the application shows an error message to notify the user about the issue. This ensures that users receive accurate information and are aware of any problems with the data retrieval process.
+3) Error Handling: If an invalid city name is entered or if the API request fails, the application shows an error message to notify the user about the issue. This ensures that users receive accurate information and are aware of any problems with the data retrieval process.
 
-Responsive Design: The WeatherApp is designed to be responsive and adapt to different screen sizes. It includes media queries that adjust the layout and styling based on the device's screen width. This ensures a consistent and optimal user experience across various devices, including desktops, tablets, and mobile phones.
+4) Responsive Design: The WeatherApp is designed to be responsive and adapt to different screen sizes. It includes media queries that adjust the layout and styling based on the device's screen width. This ensures a consistent and optimal user experience across various devices, including desktops, tablets, and mobile phones.
 
 Technologies Used:
+
 The WeatherApp project is built using the following technologies:
 
-HTML (Hypertext Markup Language): HTML is used to structure the web page and define the elements and layout of the application.
+1) HTML (Hypertext Markup Language): HTML is used to structure the web page and define the elements and layout of the application.
 
-CSS (Cascading Style Sheets): CSS is responsible for the visual styling of the WeatherApp. It defines the colors, fonts, spacing, and overall appearance of the application.
+2) CSS (Cascading Style Sheets): CSS is responsible for the visual styling of the WeatherApp. It defines the colors, fonts, spacing, and overall appearance of the application.
 
-JavaScript: JavaScript is used for the dynamic functionality of the WeatherApp. It handles the API requests, updates the weather information, and adds interactivity to the user interface.
+3) JavaScript: JavaScript is used for the dynamic functionality of the WeatherApp. It handles the API requests, updates the weather information, and adds interactivity to the user interface.
 
-OpenWeatherMap API: The project integrates with the OpenWeatherMap API to retrieve weather data. The API provides access to a wide range of weather information for different locations.
+4) OpenWeatherMap API: The project integrates with the OpenWeatherMap API to retrieve weather data. The API provides access to a wide range of weather information for different locations.
 
-Google Fonts: The WeatherApp utilizes the "Poppins" font from Google Fonts to enhance the typography and overall design of the application.
+5) Google Fonts: The WeatherApp utilizes the "Poppins" font from Google Fonts to enhance the typography and overall design of the application.
+
