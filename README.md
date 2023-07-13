@@ -49,3 +49,13 @@ The WeatherApp project is built using the following technologies:
 4. OpenWeatherMap API: The project integrates withthe OpenWeatherMap API to retrieve weather data. The API provides access to a wide range of weather information for different locations.
 
 5. Google Fonts: The WeatherApp utilizes the "Poppins" font from Google Fonts to enhance the typography and overall design of the application.
+
+
+<p align="center">
+  <img src="https://github.com/aboutalis/WeatherApp/assets/132292767/cae89145-95fe-447d-98da-79d41319c353" alt="weatherapp1">
+</p>
+
+<p align="center">
+  <img src="https://github.com/aboutalis/WeatherApp/assets/132292767/1e79d199-d96f-4e0a-9258-08e3f56ee3ef" alt="weatherapp2">
+</p>
+
